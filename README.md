@@ -6,22 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 
 ### strings
 
