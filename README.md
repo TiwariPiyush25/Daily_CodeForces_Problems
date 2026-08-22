@@ -6,15 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
+- [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (1)
 
 ---
@@ -23,7 +26,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
 ### greedy
 
@@ -31,12 +41,24 @@
 |---|---------|------------|----------|
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
 ### strings
 
