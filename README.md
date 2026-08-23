@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (2)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (3)
 - [math](#math) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -29,6 +31,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 
 ### graph matchings
 
@@ -44,10 +52,17 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 
