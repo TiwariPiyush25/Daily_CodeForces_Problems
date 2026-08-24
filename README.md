@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 16 |
+| 18 | 16 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (9)
 - [math](#math) (6)
@@ -88,6 +88,7 @@
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/230/A%20-%20Dragons/solution.java) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/337/A%20-%20Puzzles/solution.java) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 
 ### hashing
