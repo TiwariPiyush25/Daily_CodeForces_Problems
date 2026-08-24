@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 16 |
+| 20 | 16 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (10)
-- [math](#math) (7)
+- [implementation](#implementation) (11)
+- [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -49,12 +49,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 
 ### data structures
@@ -112,6 +114,7 @@
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/427/A%20-%20Police%20Recruits/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 
 ### math
 
@@ -122,6 +125,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
