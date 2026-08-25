@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 16 |
+| 22 | 16 |
 
 ---
 
@@ -14,19 +14,19 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (11)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (3)
 
 ---
@@ -50,6 +50,7 @@
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### constructive algorithms
 
@@ -92,6 +93,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/337/A%20-%20Puzzles/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 
 ### hashing
@@ -150,6 +152,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### strings
 
