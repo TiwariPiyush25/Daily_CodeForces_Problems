@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 16 |
+| 30 | 16 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (13)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
@@ -120,6 +120,7 @@
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+| 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/427/A%20-%20Police%20Recruits/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 8](https://github.com/Tiwaripiyush25/Daily_CodeForces_Problems/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
